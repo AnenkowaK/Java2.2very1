@@ -1,4 +1,4 @@
-public class Name {
+public class Main {
     public static void main(String[] args) {
         BmiService service = new BmiService();
         float mass = 50;
